@@ -1,0 +1,28 @@
+MultiStageBuild_FI = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Tee puinen seinä Taso 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Päivitä puiseen seinään Taso 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Luo puinen seinä Taso 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Päivitä puiseen seinään Taso 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Päivitä puiseen seinään Taso 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Luo puinen seinä Taso 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Luo puinen ikkuna Taso 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Päivitä puiseen ikkunaan Taso 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Luo puinen ikkuna Taso 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Päivitä puiseen ikkunaan Taso 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Päivitä puiseen ikkunaan Taso 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Luo puinen ikkuna Taso 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Luo metallinen seinä Taso 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Päivitä metalliseen seinään Taso 2",
+    MultiStageBuild_CreateMetalWall_2 = "Luo metallinen seinä Taso 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Luo metallinen ikkuna Taso 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Päivitä metalliseen ikkunaan Taso 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Luo metallinen ikkuna Taso 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Päivitä puiseen ovenkarmiin Taso 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Päivitä puiseen ovenkarmiin Taso 3",
+}
+

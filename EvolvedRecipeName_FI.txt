@@ -1,0 +1,12 @@
+EvolvedRecipeName_FI = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Tölkkiin säilötty bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Tölkkiin säilötyt porkkanat",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Tölkkiin säilötty chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "Tölkkiin säilötty maissi",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Tölkkiin säilötty naudanliha",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Tölkkiin säilötyt herneet",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Tölkkiin säilötty peruna",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Tölkkiin säilötyt sardiinit",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Tölkkiin säilötty tomaatti",
+	EvolvedRecipeName_Base.Teabag2 = "Tee",
+}
